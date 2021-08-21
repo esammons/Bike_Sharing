@@ -16,5 +16,6 @@
 ![image](https://user-images.githubusercontent.com/80020179/130308826-642ed8b2-2922-41e3-8b1d-9cc3adc8b0ca.png)
 * Weekday trips by hour. This shows the hours at which bike trips are most used. It is helpful to see what the high traffic times are in correlation to bike rides. 
 ![image](https://user-images.githubusercontent.com/80020179/130308829-097d168a-4ae3-41eb-8fbd-7ab6795f7a89.png)
-
+## Summary 
+* After conducting the analysis and reviewing the visuals we can see that most of the trips are for shorter durations. We can see what days of the week and what times the bikes are being used the most. From this we can formulate plans for when the best times to conduct maintanence would be and what areas would be able to operate on a more limited number of bikes. A possible suggestion for this analysis to be improved on would be to gather more information from more rural areas or atleast areas that are a little further outside the city. This would help to see if the bikes are actually being used for more pleasure trips or more business/ transportation oriented trips. this would help to decide a more effective business model. As it stands it would appear that the bikes are primarily being used for quick transportation between more touristy areas so it would be interesting to see how effective bikes would be in more rural areas that may not have as many tourist attractions to ride the bikes to. 
   
