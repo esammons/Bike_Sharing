@@ -1,6 +1,6 @@
 # Bike_Sharing
 ## Overview of the analysis.
-  * In this analysis we are trying to see if a bike sharing program taking place in NYC can be replicated and utilized outside of NYC. In order to do this we are using CitiBike data to conduct our analysis and create visualizations.  [link to dashboard](https://public.tableau.com/app/profile/ethan.sammons/viz/Bike_Sharing_16295127457710/NYCCitibikeStory?publish=yes)
+  * In this analysis we are trying to see if a bike sharing program taking place in NYC can be replicated and utilized outside of NYC. In order to do this we are using CitiBike data to conduct our analysis and create visualizations using programs like jupyter notebook and visualization tools like Tableau.  [link to dashboard](https://public.tableau.com/app/profile/ethan.sammons/viz/Bike_Sharing_16295127457710/NYCCitibikeStory?publish=yes)
 ## Results 
 * Checkout times for users. The graph shows that a majority of rides are within the 0 to 10 minute mark. With very few bike rides lasting around an hour.
 * ![image](https://user-images.githubusercontent.com/80020179/130307121-d2b6d449-19e6-4c1a-8e78-df21ab04e2cb.png)
